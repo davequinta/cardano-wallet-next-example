@@ -1,3 +1,3 @@
 # cardano-wallet-next-example
-#Original Repo:
+# Original Repo:
 https://github.com/dynamicstrategies/cardano-wallet-connector
